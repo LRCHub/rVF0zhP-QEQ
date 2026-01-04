@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "砂漠の舟",
+  "base_artist": "Tele",
+  "createdAt": "2026-01-04T12:53:53.443486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "砂漠の舟",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_砂漠の舟_Tele.txt"
+    }
+  ]
+}
